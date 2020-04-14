@@ -1,0 +1,29 @@
+header{
+	border :1px ;
+	font-family:arial ;
+	background:cyan ;
+	width:510px ;
+	height: 106px;
+
+}
+
+
+
+
+section{
+	border:1px ;
+	background:cyan ;
+	width:510px ;
+	height:403px ;
+}
+
+
+
+
+footer{
+	border :1px ;
+	font-family: calibri ;
+	background:cyan ;
+	width:510px ;
+	height: 106px;
+}
